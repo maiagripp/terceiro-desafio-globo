@@ -1,0 +1,115 @@
+[
+  {
+    "subTitulo": "",
+    "linkNoticia": "https://g1.globo.com/globonews/ao-vivo/globonews-ao-vivo.ghtml",
+    "linkImagem": "https://s2.glbimg.com/7mcjGUrlSCUTiF6cizMzKJvX6rY=/0x0:1280x720/540x304/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/J/Q/GakiwATbGyrMk3Lm00pA/pgm-globonews-limpo-ao-vivo-20220224-1959-frame-41853.jpeg",
+    "titulo": "GLOBONEWS: assista às últimas notícias sobre a guerra na Ucrânia",
+    "noticiasRelacionadas": [
+      {
+        "linkNoticia": "https://g1.globo.com/mundo/noticia/2022/02/24/putin-autoriza-operacao-especial-no-leste-da-ucrania.ghtml",
+        "titulo": "Rússia ataca Ucrânia pela terra, pelo ar e pelo mar"
+      },
+      {
+        "linkNoticia": "https://g1.globo.com/df/distrito-federal/noticia/2022/02/24/lei-marcial-entenda-porque-medida-foi-decretada-por-presidente-da-ucrania-apos-ataques-da-russia.ghtml",
+        "titulo": "Entenda o que é a lei Marcial e por que foi decretada"
+      }
+    ]
+  },
+  {
+    "subTitulo": "",
+    "linkNoticia": "https://g1.globo.com/mundo/noticia/2022/02/21/mapa-conflito-ucrania-russia.ghtml",
+    "linkImagem": "https://s2.glbimg.com/RXeB-zOgXUvV7iu3Hxu62daWrhM=/107x72:431x254/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/i/7YtIXwSLCa7h5aJimisw/mapa3d-rus-x-ucr.gif",
+    "titulo": "MAPAS: invasão russa ocorre em 3 frentes simultâneas",
+    "noticiasRelacionadas": [
+      {
+        "linkNoticia": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/24/por-que-a-russia-invadiu-a-ucrania.ghtml",
+        "titulo": "Por que Putin resolveu invadir a Ucrânia? ENTENDA"
+      },
+      {
+        "linkNoticia": "https://g1.globo.com/mundo/noticia/2022/02/24/onde-fica-a-ucrania.ghtml",
+        "titulo": "Onde fica a Ucrânia e por que ela é estratégica na Europa"
+      }
+    ]
+  },
+  {
+    "subTitulo": "",
+    "linkNoticia": "https://g1.globo.com/politica/noticia/2022/02/24/bolsonaro-desautoriza-mourao-por-declaracao-sobre-ucrania-mas-nao-condena-invasao-russa.ghtml",
+    "linkImagem": "https://s2.glbimg.com/F5ccctb6Mc9u3k7THAxkyz911ww=/91x0:1433x755/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/N/28LlLJQRAdl3dKC98Egw/bolsonaro-live.jpg",
+    "titulo": "Bolsonaro desautoriza Mourão e não condena invasão russa",
+    "noticiasRelacionadas": []
+  },
+  {
+    "subTitulo": "",
+    "linkNoticia": "https://g1.globo.com/politica/noticia/2022/02/24/itamaraty-diz-que-nao-possui-plano-de-resgate-para-brasileiros-na-ucrania.ghtml",
+    "linkImagem": "https://s2.glbimg.com/9HP8YNrV4oiZAorGiKuhJ8vuO1o=/0x0:976x549/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/d/jKNtV9R7ScmgVxVPjUpw/bbc-1.jpg",
+    "titulo": "Governo não tem plano para resgatar brasileiros, diz embaixador",
+    "noticiasRelacionadas": [
+      {
+        "linkNoticia": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/02/24/brasil-aguarda-resolucao-dos-eua-para-se-posicionar-no-conselho-de-seguranca-da-onu.ghtml",
+        "titulo": "JULIA DUAILIBI: Brasil espera resolução dos EUA para se posicionar na ONU"
+      },
+      {
+        "linkNoticia": "https://g1.globo.com/politica/blog/natuza-nery/post/2022/02/24/postura-timida-de-carlos-franca-joga-diplomacia-brasileira-em-seu-pior-momento.ghtml",
+        "titulo": "NATUZA NERY: Brasil vive seu pior momento na diplomacia"
+      },
+      {
+        "linkNoticia": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/02/24/congresso-pressiona-itamaraty-e-planalto-a-sair-do-muro-e-ter-posicao-clara-de-condenacao-da-russia.ghtml",
+        "titulo": "CAMAROTTI: Congresso pressiona governo a 'sair do muro'"
+      }
+    ]
+  },
+  {
+    "subTitulo": "",
+    "linkNoticia": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/24/putin-esta-planejando-isso-ha-meses-diz-biden-em-novo-pronunciamento-sobre-o-conflito-na-ucrania.ghtml",
+    "linkImagem": "https://s2.glbimg.com/V6ogQj2qfUtoIQNEvsEFi6YsSZA=/635x145:4163x2130/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/K/m/VEozEBRFWVtYqXTtTgXw/ap22055677384624.jpg",
+    "titulo": "Biden anuncia sanções e diz que Putin quer nova União Soviética",
+    "noticiasRelacionadas": []
+  },
+  {
+    "subTitulo": "",
+    "linkNoticia": "https://g1.globo.com/mundo/noticia/2022/02/24/russia-pode-sofrer-sancao-e-ser-excluida-de-rede-global-de-pagamentos-entenda-o-que-e-swift.ghtml",
+    "linkImagem": "https://s2.glbimg.com/m2uRJo2htm05SYYDmENUnoy6qj8=/356x14:1589x708/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/K/w/hUaKEDRJS02RfCgF4c6g/000-1ty4hz.jpg",
+    "titulo": "Rússia pode ser excluída da rede de pagamentos Swift; entenda o que é",
+    "noticiasRelacionadas": [
+      {
+        "linkNoticia": "https://g1.globo.com/mundo/noticia/2022/02/24/veja-quais-sao-as-novas-sancoes-anunciadas-por-biden-contra-a-russia.ghtml",
+        "titulo": "Entenda quais são as novas sanções anunciadas por Biden "
+      }
+    ]
+  },
+  {
+    "subTitulo": "",
+    "linkNoticia": "https://g1.globo.com/globonews/jornal-globonews-edicao-das-18/video/guerra-de-palavras-putin-e-biden-travaram-confronto-por-meses-relembre-10334278.ghtml",
+    "linkImagem": "https://s2.glbimg.com/O5eSXYMPEVih2PQ_-7pZ-1L1OWU=/0x0:720x405/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/ViWsvtKOFiU3OcZl8ggBMd9xR_w=/720x0/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/78/42/10334278",
+    "titulo": "VÍDEO: a ‘guerra de palavras’ entre Putin e Biden antes da invasão",
+    "noticiasRelacionadas": [
+      {
+        "linkNoticia": "https://g1.globo.com/podcast/o-assunto/noticia/2022/02/24/guerra-na-ucrania-ouca-episodios-do-podcast-o-assunto-sobre-o-conflito.ghtml",
+        "titulo": "🎧 O ASSUNTO: todos os episódios sobre o conflito da Ucrânia"
+      }
+    ]
+  },
+  {
+    "subTitulo": "Análises",
+    "linkNoticia": "https://g1.globo.com/globonews/jornal-globonews-edicao-das-18/video/guga-putin-nao-vai-virar-bashar-al-assad-muammar-al-kadhafi-ou-saddam-hussein-mas-e-um-paria-no-ocidente-10334235.ghtml",
+    "linkImagem": "https://s2.glbimg.com/Uah037qg2dhDaEW88XUS6f8xKKo=/0x0:720x405/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/9L0THzz67mNdUOFDMYN2rZ0wuJc=/720x0/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/35/42/10334235",
+    "titulo": "GUGA CHACRA: ‘Sanção não vai derrubar o regime Putin’",
+    "noticiasRelacionadas": [
+      {
+        "linkNoticia": "https://g1.globo.com/globonews/conexao-globonews/video/professora-analisa-os-proximos-acontecimentos-do-conflito-entre-russia-e-ucrania-10332375.ghtml",
+        "titulo": "Estratégia de ataques múltiplos é difícil de conter, diz professora"
+      },
+      {
+        "linkNoticia": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2022/02/24/putin-blefou-o-tempo-inteiro.ghtml",
+        "titulo": "SANDRA COHEN: Putin blefou e sempre quis dominar a Ucrânia"
+      }
+    ]
+  },
+  {
+    "subTitulo": "Mais sobre a guerra",
+    "linkNoticia": "https://g1.globo.com/mundo/noticia/2022/02/24/o-que-e-chernobyl-e-por-que-regiao-e-importante.ghtml",
+    "linkImagem": "https://s2.glbimg.com/trGYADUV55MSLBgv5giyoUWhs78=/0x610:5046x3448/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Q/q/cyvBSrTGCuBmyeya6VBw/ap22055690277424.jpg",
+    "titulo": "Chernobyl: o que é, onde fica e por que a região é importante",
+    "noticiasRelacionadas": []
+  }
+]
