@@ -1,0 +1,33 @@
+###
+GET http://localhost:3333/health
+
+###
+GET http://localhost:3333/att-data
+
+###
+POST http://localhost:3333/login HTTP/1.1
+content-type: application/json
+
+{
+    "email": "sampalaaeaaaaaaa@email.com",
+    "password": "123456"
+}
+
+###
+GET http://localhost:3333/att-data
+
+###
+POST http://localhost:3333/news HTTP/1.1
+content-type: application/json
+
+{
+    "subTitulo": "",
+    "linkNoticia": "https://g1.globo.com/politica/noticia/2022/02/24/bolsonaro-desautoriza-mourao-por-declaracao-sobre-ucrania-mas-nao-condena-invasao-russa.ghtml",
+    "linkImagem": "https://s2.glbimg.com/F5ccctb6Mc9u3k7THAxkyz911ww=/91x0:1433x755/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/N/28LlLJQRAdl3dKC98Egw/bolsonaro-live.jpg",
+    "titulo": "Bolsonaro desautoriza Mourão e não condena invasão russa"
+    
+  }
+
+###
+GET http://localhost:3333/news
+Authorization:  Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsIm5hbWVPZlVzZXIiOiJBZG1pbiIsImlhdCI6MTY0Njg3MjUzMSwiZXhwIjoxNjQ2ODcyNjUxfQ.y-y1LlY-4eoCRd95P31aH2SgWZvXhMh56aH6WaIgDwI

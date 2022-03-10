@@ -1,10 +1,10 @@
 {
   "name": "terceiro-desafio-globo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "docker run --name g2news-mysqldb -e MYSQL_DATABASE=g2news -e MYSQL_USER=g2news -e MYSQL_PASSWORD=my-ultra-password -e MYSQL_ROOT_PASSWORD=my-root-ultra-password -p 3306:3306 -d mysql:8.0.28",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
@@ -19,9 +19,17 @@
   "homepage": "https://github.com/JuninhoCarlos/terceiro-desafio-globo#readme",
   "dependencies": {
     "axios": "^0.26.0",
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3"
   },
   "devDependencies": {
-    "live-server": "1.2.1"
+    "dotenv": "^16.0.0",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "live-server": "1.2.1",
+    "nodemon": "^2.0.15"
   }
 }
